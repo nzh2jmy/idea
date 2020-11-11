@@ -7,5 +7,6 @@ package cn.kgc;
 public class testA {
     public static void main(String[] args) {
         System.out.println("nihao");
+        System.out.println("nihaoa");
     }
 }
